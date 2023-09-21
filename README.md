@@ -1,4 +1,4 @@
-# CODEWARS
+# LEETCODE
 
 ## Project setup
 ```
