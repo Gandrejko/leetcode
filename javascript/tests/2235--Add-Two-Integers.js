@@ -1,4 +1,4 @@
-import sum from '../2235--Add-Two-Integers.js';
+import sum from '../easy/2235--Add-Two-Integers.js';
 import { assert } from 'chai';
 
 describe("Add two integers", () => {
